@@ -1,4 +1,4 @@
-# vue-searchAndSort
+# vue-search-And-Sort
 
 > 用Vue.js实现排序、搜索功能
 
